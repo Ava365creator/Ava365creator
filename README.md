@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ava365creator
-- 👀 I’m interested in leanring as much as possible
+- 👀 I’m interested in learning as much as possible
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on new future projects
 - 📫 How to reach me ...Space and time
