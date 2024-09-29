@@ -2,8 +2,8 @@
 - 👀 I’m interested in leanring as much as possible
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on new future projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...Space and time
+- 😄 Pronouns: Whatever floats your goat
 - ⚡ Fun fact: Scotlands National animal is the unicorn
 
 <!---
